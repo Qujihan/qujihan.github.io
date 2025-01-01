@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>拾野地</title>
+    <link>/</link>
+    <description>Recent content on 拾野地</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>/posts/hello/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/hello/</guid>
+      <description>&lt;h1 id=&#34;hello&#34;&gt;Hello&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>一些关于我的事情</title>
+      <link>/about/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description>&lt;h1 id=&#34;自我介绍-cvcvpdf&#34;&gt;自我介绍 &lt;a href=&#34;cv.pdf&#34;&gt;CV&lt;/a&gt;&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>
